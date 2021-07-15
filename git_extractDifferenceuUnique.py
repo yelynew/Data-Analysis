@@ -50,6 +50,7 @@ for x in range(len(tags)):
     diff1.append(list1)
     diff2.append(list2)
 
+    
 
 
 #print(diff1)
